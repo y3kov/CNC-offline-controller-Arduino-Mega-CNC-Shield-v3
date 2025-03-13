@@ -22,5 +22,4 @@ The device currently responds to the following commands:
 The project is currently under development.
 
 ### Screenshots
-![CNC Milling Machine](cnc_milling_machine.png)
-![TFT Display](tft_display.png)
+![Procces](https://github.com/user-attachments/assets/5f4e58fb-5345-469e-b447-5ed3cf2b4c16)
